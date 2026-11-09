@@ -16,7 +16,9 @@
 ## 📸 لقطات من البرنامج (Screenshots)
 
 
-![صورة البرنامج](logo_porto.jpg)
+<div align="center">
+  <img src="logo_porto.jpg" alt="Portofino Logo" width="300">
+</div>
 <img width="1920" height="1031" alt="Capture" src="https://github.com/user-attachments/assets/73bb00e7-8f5b-43b2-a508-60acfd950c01" />
 
 ## ⚙️ كيفية التشغيل (How to Run)
